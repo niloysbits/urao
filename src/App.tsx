@@ -338,9 +338,9 @@ export default function App() {
               </div>
 
               <div className="text-center pb-4 pt-6 border-t border-slate-100 mt-6">
-                <p className="text-xs text-slate-400 font-medium">Developed by</p>
-                <p className="text-sm font-black text-slate-800">ডেভেলপার ভাই: Al Imran Niloy</p>
-                <p className="text-[10px] text-slate-500 mt-1">(যিনি কোড করতে গিয়া নিজেই উইড়া গেছেন 🚀)</p>
+                <p className="text-[11px] text-slate-400 font-semibold uppercase tracking-[0.28em]">Developed by</p>
+                <p className="text-sm font-black text-slate-800 mt-1">Al Imran Niloy</p>
+                <p className="text-[10px] text-slate-500 mt-1">মজা, ডিজাইন আর কোড মিলিয়ে বানানো একদম খাঁটি উড়ন্ত বিশৃঙ্খলা।</p>
               </div>
             </motion.div>
           </>
